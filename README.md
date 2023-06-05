@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning power BI & Tableau
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me 
-- prafullkolte6@gmail.com
+- prafullkolte2016@gmail.com
 - 8554085271
 
 <!---
